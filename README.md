@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, It's Mohadeseh
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
@@ -6,17 +6,15 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.ghafoori78@gmail.com)
 
 
-* I am [Hadis Ghafouri](https://www.linkedin.com/in/hadis-ghafouri-73a8281b3) :blush:	 . Currently I am a third year student from [IUT](https://iut.ac.ir/) in Computer Engineering.
-
-* I’m interested in coding and make everything more optimized
-* I have done multiple projects ranging from c,c++,python,sql languages to Front-End development.
-* I am currently brushing up my skills and plan to become better at Reactjs.
-* I am willing to work on free-lance projects and love to contribute to open source projects.
-- I like challenges, learning, helping, sharing and living.
-* <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+* 🛠 &nbsp;I’m currently working on Computer Vision, Image Processing, and Deep Learning.
+* 🚀 &nbsp;I’m currently learning Data Management.
+* 👯 I’m looking to collaborate on Computer Vision projects.
+* 👨🏻‍💻 &nbsp;I love challenges, learning, coding, giving talks, and reading self-help books.
+* 💬 Ask me about images, especially space images, AI, image synthesis, technology, and clothes.
 ### ⚡ Interested in:
-- Web,Desktop, mobile, Frontend, Backend, design, Blockchain and everything related to technology.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 discovering new ideas, creating new stuff, leading and mentoring, visiting new places, and making friends.
+- 🏄‍ swimming, jumping, volleyball, astronomy, theme and amusement parks, tech and community events, and TED talks.
+- 🍕 &nbsp;meeting new people and eating food!
 
 #### :computer: Programming languages and tools: 
 <p>
